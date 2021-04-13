@@ -16,6 +16,8 @@ Liason with InterNFT and The Interwork Alliance
 
 ## Meetings
 
+Meeting Minutes will be recorded in Discussions (e.g. [Metadata Standards Liaison meeting - 13th April 2021](https://github.com/NFT-DAO/Metadata-Standards-Liason/discussions/3). To allow for threaded comments.
+
 For documentation of meetings and/or links to meeting videos go to [Meetings](/Meetings). Each folder will have its own README to guide users further. Each sections description should be no more than a few sentences.
 
 ## Documents
