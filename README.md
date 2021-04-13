@@ -24,7 +24,7 @@ For documentation of the metadata subject go to [Documents](/Documents/). Each f
 
 ## Proposals
 
-For funding proposals go to [Proposals](Development/). Each folder will have its own README to guide users further. Each sections description should be no more than a few sentences.
+For funding proposals go to [Proposals](Proposals/). Each folder will have its own README to guide users further. Each sections description should be no more than a few sentences.
 
 ## Licensing
 
