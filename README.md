@@ -4,8 +4,7 @@
 # Metadata-Standards-Liason
 Liason with InterNFT and The Interwork Alliance 
 
-<img src="Documents/Graphics/NFT-DAO.png" width="200">
-
+<img src="Documents/Graphics/NFT-DAO.jpg" width="200">
 
 ## Discussions
 
