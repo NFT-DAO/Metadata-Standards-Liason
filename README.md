@@ -3,7 +3,7 @@
 
 <img src="Documents/Graphics/NFT-DAO.jpg"  align="right" width="200">
 
-# Metadata-Standards-Liason
+# NFT-Standards-Liason
 Liason with InterNFT and The Interwork Alliance 
 
 ## Contributors : ![GitHub Contributors Image](https://contrib.rocks/image?repo=NFT-DAO/Metadata-Standards-Liason)
