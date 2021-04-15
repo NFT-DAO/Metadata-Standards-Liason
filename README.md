@@ -3,7 +3,7 @@
 
 <img src="Documents/Graphics/NFT-DAO.jpg"  align="right" width="200">
 
-# Metadata-Standards-Liason
+# NFT-Standards-Liason
 Liason with InterNFT and The Interwork Alliance 
 
 ## Contributors : ![GitHub Contributors Image](https://contrib.rocks/image?repo=NFT-DAO/Metadata-Standards-Liason)
@@ -11,15 +11,15 @@ Liason with InterNFT and The Interwork Alliance
 ## Discussions
 
 ### General Discussion ?
-> go to https://github.com/NFT-DAO/Metadata-Standards-Liason/discussions and join in.
+> go to https://github.com/NFT-DAO/NFT-Standards/discussions and join in.
 ### Ideas ?
-> go to https://github.com/NFT-DAO/Metadata-Standards-Liason/discussions/categories/ideas and join in.
+> go to https://github.com/NFT-DAO/NFT-Standards/discussions/categories/ideas and join in.
 ### Questions and Answers (Q&A) ?
-> go to https://github.com/NFT-DAO/Metadata-Standards-Liason/discussions/categories/q-a and join in.
+> go to https://github.com/NFT-DAO/NFT-Standards/discussions/categories/q-a and join in.
 
 ## Meetings
 
-Meeting Minutes will be recorded in Discussions (e.g. [Metadata Standards Liaison meeting - 13th April 2021](https://github.com/NFT-DAO/Metadata-Standards-Liason/discussions/3). To allow for threaded comments.
+Meeting Minutes will be recorded in Discussions (e.g. [NFT-Standards meeting - 13th April 2021](https://github.com/NFT-DAO/NFT-Standards/discussions/3). To allow for threaded comments.
 
 For documentation of meetings and/or links to meeting videos go to [Meetings](/Meetings). Each folder will have its own README to guide users further. Each sections description should be no more than a few sentences.
 
