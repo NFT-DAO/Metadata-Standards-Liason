@@ -1,9 +1,3 @@
-# Blockchain Test Maturity Model
-
-This is an adaption of [KPMG’s Blockchain Maturity Model](https://assets.kpmg/content/dam/kpmg/nl/pdf/2017/advisory/blockchain-maturity-model.pdf) oriented towards Test Maturity Models.
-
-The challenge is adapting maturity levels to distributed autonomous organisations (DAO). 
-
 # NFT-DAO Test Strategy
 
 ## Scope
