@@ -10,16 +10,20 @@ The challenge is how to adapt quality and maturity levels to a distributed, auto
 
 A PDF of a outline document is at https://github.com/NFT-DAO/Governance-HOLON/blob/main/Documents/Testing/NFT-DAO-Test-Stategy.pdf
 
+## Test Strategy
 
+[01 Test Strategy](Documentation/01-Test-Strategy.md)
+
+## Risks
+
+[02 Risks](Documentation/02-Risks.md )
+
+## Maturity Levels
+
+[03 Maturity Levels](Documentation/03-Maturity-Levels.md )
 
 ## Blockchain Test Maturity Model
 
-This is an adaption of KPMG’s Blockchain Maturity Model oriented towards Test Maturity Models.
-
-The challenge is adapting maturity levels to distributed autonomous organisations (DAO). 
-
-## Risk Areas
-
-[Risk Areas](Risks/README.md)
+[04 Blockchain Test Maturity Model](Documentation/04-Blockchain-Test-Maturity Model.md)
 
 
