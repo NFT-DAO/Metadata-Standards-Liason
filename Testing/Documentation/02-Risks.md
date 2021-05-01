@@ -70,3 +70,4 @@ GDPR. (European Privacy Legislation)
 Coherence of the consensus mechanism chosen.
 
 the number and location of nodes 
+
