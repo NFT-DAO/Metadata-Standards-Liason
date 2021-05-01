@@ -10,53 +10,20 @@ The challenge is how to adapt quality and maturity levels to a distributed, auto
 
 A PDF of a outline document is at https://github.com/NFT-DAO/Governance-HOLON/blob/main/Documents/Testing/NFT-DAO-Test-Stategy.pdf
 
-## The Test Strategy in NFT-DAO roadmap terms  - 
+## Test Strategy
 
-### Short-Term : 
+[01 Test Strategy](Documentation/01-Test-Strategy.md)
 
-Treat one of the MVP Releases as a User Acceptance Test (UAT) - to achieve a "Defined" maturity level.
-Identify Token Risk Areas.
-Run Test Cases with Subscribers
-Document outputs to demonstrate NFT-DAO can achieve  a "Defined" maturity level.
+## Risks
 
-### Medium-Term : 
+[02 Risks](Documentation/02-Risks.md )
 
-NFT-DAO adopts some kind of quality testing method - to achieve a "Integration" maturity level.
+## Maturity Levels
 
-### Long-Term : 
-
-NFT-DAO's whole approach is a test lifecycle - to achieve a "Optimization" maturity level.
+[03 Maturity Levels](Documentation/03-Maturity-Levels.md )
 
 ## Blockchain Test Maturity Model
 
-This is an adaption of KPMG’s Blockchain Maturity Model oriented towards Test Maturity Models.
-
-The challenge is adapting maturity levels to distributed autonomous organisations (DAO). 
-
-## Risk Areas
-
-[Risk Areas](Risks/README.md)
-
-## "Classic" Maturity Levels
-
-### Level 1 – Initial
-
-Ad-hoc testing.
-
-### Level 2 – Defined.
-
-Testing does not start until products are completed, so the aim of testing is to compare products against requirements.
-
-### Level 3 – Integration
-
-Testing is integrated into a quality life cycle,
-
-### Level 4 – Management and measurement
-
-Testing activities take place at all stages of the life cycle.
-
-### Level 5 – Optimization
-
-Testing process itself is tested and improved at each iteration.
+[04 Blockchain Test Maturity Model](Documentation/04-Blockchain-Test-Maturity-Model.md )
 
 
