@@ -24,6 +24,6 @@ A PDF of a outline document is at https://github.com/NFT-DAO/Governance-HOLON/bl
 
 ## Blockchain Test Maturity Model
 
-[04 Blockchain Test Maturity Model](Documentation/04-Blockchain-Test-Maturity Model.md)
+[04 Blockchain Test Maturity Model](Documentation/04-Blockchain-Test-Maturity Model.md )
 
 
