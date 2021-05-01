@@ -10,6 +10,18 @@ The challenge is how to adapt quality and maturity levels to a distributed, auto
 
 A PDF of a outline document is at https://github.com/NFT-DAO/Governance-HOLON/blob/main/Documents/Testing/NFT-DAO-Test-Stategy.pdf
 
+An overview some things to consider - 
+
+- [ ] Add a Testing channel to NFT-DAO Slack to get Developer involvement from the outset.
+- [ ] Identify what test platforms will available for different MVP launches.
+- [ ] Work out how to capture Test Cases for each participant on different platforms/offerings. 
+- [ ] Identify what Risk Areas we are most vulnerable to and prioritize their UAT.
+- [ ] Agree a Test Timetable, with handovers between HOLONs and support in place etc.
+- [ ] Market and Communicate the test as an offering in itself "Come and Break our Token" etc. (to incentive involvement).
+- [ ] Work out if we can actually tokenise incentives to take part at this stage (e.g. gamify the test).
+- [ ] Document the whole thing and present as evidence that NFT-DAO can achieve Maturity level 2.
+- [ ] I am going to do assessment of the failures of the OccamFi launch and see how it fits into KPMG's Blockchain Risk Model
+
 ## Test Strategy
 
 [01 Test Strategy](Documentation/01-Test-Strategy.md)
