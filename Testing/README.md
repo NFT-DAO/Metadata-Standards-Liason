@@ -33,9 +33,9 @@ This is an adaption of KPMG’s Blockchain Maturity Model oriented towards Test 
 
 The challenge is adapting maturity levels to distributed autonomous organisations (DAO). 
 
+## Risk Areas
 
 [Risk Areas](Risks/README.md)
-
 
 ## "Classic" Maturity Levels
 
