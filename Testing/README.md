@@ -20,7 +20,7 @@ An overview some things to consider -
 - [ ] Market and Communicate the test as an offering in itself "Come and Break our Token" etc. (to incentive involvement).
 - [ ] Work out if we can actually tokenise incentives to take part at this stage (e.g. gamify the test).
 - [ ] Document the whole thing and present as evidence that NFT-DAO can achieve Maturity level 2.
-- [ ] I am going to do assessment of the failures of the OccamFi launch and see how it fits into KPMG's Blockchain Risk Model
+- [ ] I am going to do assessment of the OccamFi launch and see how it fits into KPMG's Blockchain Risk Model
 
 ## Test Strategy
 
