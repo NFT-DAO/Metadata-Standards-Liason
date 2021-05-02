@@ -12,7 +12,7 @@ A PDF of a outline document is at https://github.com/NFT-DAO/Governance-HOLON/bl
 
 An overview some things to consider - 
 
-- [ ] Add a Testing channel to NFT-DAO Slack to get Developer involvement from the outset.
+- [x] Add a Testing channel to NFT-DAO Slack to get Developer involvement from the outset.
 - [ ] Identify what test platforms will available for different MVP launches.
 - [ ] Work out how to capture Test Cases for each participant on different platforms/offerings. 
 - [ ] Identify what Risk Areas we are most vulnerable to and prioritize their UAT.
