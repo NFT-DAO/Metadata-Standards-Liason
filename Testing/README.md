@@ -15,7 +15,7 @@ An overview some things to consider -
 ### Preliminaries
 
 - [x] Add a Testing channel to NFT-DAO Slack to get Developer involvement from the outset.
-- [ ] An assessment of the failures of the OccamFi launch and how it fits into KPMG's Blockchain Risk Model
+- [ ] QA-DAO assessment of the failures of the OccamFi launch and how it fits into KPMG's Blockchain Risk Model ( https://github.com/Quality-Assurance-DAO/DAO-Open-Source/issues/21 )
 
 ### Practicalities
 
